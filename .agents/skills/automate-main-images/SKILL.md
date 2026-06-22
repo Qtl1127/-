@@ -29,6 +29,10 @@ powershell -ExecutionPolicy Bypass -File "<skill-folder>\scripts\batch_optimize_
 5. Count supported source files and generated `.png` files. If counts differ, inspect the command output and source file formats before reporting success.
 6. For user-facing delivery, report the output folder and number of processed images. If visual inspection tools are available, inspect one representative output image before finalizing.
 
+## Scope Guardrails
+
+Only process product images provided by the user. Do not create new product images from scratch. Do not turn product main images into educational illustrations, tutorial graphics, structural explanation diagrams, or cartoon illustrations.
+
 ## Output Style
 
 The bundled script creates 800x800 PNG images. It scales/crops the source photo to fill the square canvas, lightly brightens the image, samples colors from the source, and adds a bottom information band with Chinese product-display labels.
