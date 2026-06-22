@@ -18,5 +18,4 @@ $automate-main-images
 
 ## 注意
 
-- 这个仓库已经是 Public，别人可以直接用上面的命令安装。
 - 这个 skill 主要适合 Windows，因为里面的批处理脚本使用 PowerShell 和 System.Drawing。
