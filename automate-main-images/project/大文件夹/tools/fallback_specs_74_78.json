@@ -1,0 +1,122 @@
+[
+  {
+    "name": "74",
+    "originalFile": "74.png",
+    "logFile": "74_处理日志.md",
+    "brandSub": "轻奢家居美学",
+    "crop": { "x": 0.49, "y": 0.12, "w": 0.49, "h": 0.50 },
+    "palette": {
+      "bg1": "#f6efe2",
+      "bg2": "#dbc19b",
+      "panel": "#fff8ec",
+      "dark": "#24411f",
+      "accent": "#a97836",
+      "accent2": "#d8b66f",
+      "text": "#1f231a"
+    },
+    "headline": "原木筷子\n一人一双",
+    "subtitle": "家人专属用餐更讲究",
+    "features": [
+      { "title": "原木纹理", "body": "餐桌搭配更自然" },
+      { "title": "专属识别", "body": "家人筷子不易混" },
+      { "title": "顺手夹取", "body": "日常用餐更稳当" }
+    ],
+    "bottom": ["原木纹理", "专属识别", "顺手夹取", "整齐收纳"]
+  },
+  {
+    "name": "75",
+    "originalFile": "75.jpg",
+    "logFile": "75_处理日志.md",
+    "brandSub": "轻奢家居美学",
+    "crop": { "x": 0.06, "y": 0.42, "w": 0.86, "h": 0.36 },
+    "palette": {
+      "bg1": "#f5efe5",
+      "bg2": "#8c5e31",
+      "panel": "#fffaf0",
+      "dark": "#2d1d16",
+      "accent": "#b07a35",
+      "accent2": "#d7b06a",
+      "text": "#1f1a16"
+    },
+    "headline": "清透茶器\n更有雅韵",
+    "subtitle": "茶汤分滤倒饮顺手",
+    "features": [
+      { "title": "清透玻璃", "body": "茶汤色泽看得见" },
+      { "title": "分滤茶器", "body": "泡茶倒饮更从容" },
+      { "title": "弧形把手", "body": "端拿倒茶更顺手" }
+    ],
+    "bottom": ["清透玻璃", "分滤茶器", "顺畅倒茶", "茶席美学"]
+  },
+  {
+    "name": "76",
+    "originalFile": "76.jpg",
+    "logFile": "76_处理日志.md",
+    "brandSub": "轻奢家居美学",
+    "crop": { "x": 0.54, "y": 0.13, "w": 0.34, "h": 0.66 },
+    "palette": {
+      "bg1": "#f0e5d5",
+      "bg2": "#3b241a",
+      "panel": "#fff5e7",
+      "dark": "#151515",
+      "accent": "#9b632e",
+      "accent2": "#cda66e",
+      "text": "#161616"
+    },
+    "headline": "一键开瓶\n更利落",
+    "subtitle": "酒具套装吧台好用",
+    "features": [
+      { "title": "电动开瓶", "body": "瓶塞取出更省力" },
+      { "title": "合金钻头", "body": "旋入开瓶更顺手" },
+      { "title": "底座收纳", "body": "酒具配件整齐放" }
+    ],
+    "bottom": ["电动开瓶", "合金钻头", "底座收纳", "吧台酒具"]
+  },
+  {
+    "name": "77",
+    "originalFile": "77.jpg",
+    "logFile": "77_处理日志.md",
+    "brandSub": "轻奢家居美学",
+    "crop": { "x": 0.08, "y": 0.13, "w": 0.88, "h": 0.67 },
+    "palette": {
+      "bg1": "#efeee8",
+      "bg2": "#42403a",
+      "panel": "#f8f5ed",
+      "dark": "#10100f",
+      "accent": "#9a7242",
+      "accent2": "#d5bc8b",
+      "text": "#151515"
+    },
+    "headline": "厨房收纳\n一架归位",
+    "subtitle": "调料厨具整齐上墙",
+    "features": [
+      { "title": "分区置物", "body": "调料餐具分类放" },
+      { "title": "挂杆挂钩", "body": "常用厨具顺手取" },
+      { "title": "卷纸横杆", "body": "台面空间更清爽" }
+    ],
+    "bottom": ["分区置物", "挂杆挂钩", "卷纸横杆", "厨房整理"]
+  },
+  {
+    "name": "78",
+    "originalFile": "78.jpg",
+    "logFile": "78_处理日志.md",
+    "brandSub": "轻奢家居美学",
+    "crop": { "x": 0.00, "y": 0.02, "w": 0.42, "h": 0.72 },
+    "palette": {
+      "bg1": "#f1f1ee",
+      "bg2": "#3c3c3a",
+      "panel": "#f7f6f1",
+      "dark": "#202124",
+      "accent": "#8a8f8a",
+      "accent2": "#c7b98a",
+      "text": "#151617"
+    },
+    "headline": "大容量热饮\n随行好带",
+    "subtitle": "茶水分离户外通勤都从容",
+    "features": [
+      { "title": "容量可选", "body": "外出饮水更从容" },
+      { "title": "茶隔分离", "body": "泡茶倒饮更顺手" },
+      { "title": "提绳便携", "body": "户外通勤都好拿" }
+    ],
+    "bottom": ["容量可选", "茶隔分离", "提绳便携", "长效保温"]
+  }
+]

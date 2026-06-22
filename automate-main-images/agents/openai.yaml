@@ -1,6 +1,6 @@
 interface:
   display_name: "自动化主图"
-  short_description: "批量优化产品主图为800x800 PNG"
-  default_prompt: "Use $automate-main-images to batch optimize product main images from my source folder into a clean output folder."
+  short_description: "按提示词和规则批量升级电商主图"
+  default_prompt: "Use $automate-main-images to upgrade my product images with the bundled prompt rules and quality-check workflow."
 policy:
   allow_implicit_invocation: true
